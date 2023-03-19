@@ -3,7 +3,9 @@
 Cerinte proiect :
 - Proiectul consta in crearea unei mini aplicatii care sa gestioneze o afacere/agenda/planificare.
 - Proiectul trebuie sa contina minim 4 clase, care trebuie sa aiba o legatura intre ele.
-- Fiecare clasa trebuie sa contina minim 4 variabile, care sa acopere toate tipurile de variabile enumerate in cerinte si sa contina si alte variabile daca este necesar. - Pentru 2 din clase trebuie sa se construiasca Setters si Getters, iar in tot proiectul trebuie sa existe Setters si Getters pentru toate variabilele listate mai sus. 
+- Fiecare clasa trebuie sa contina minim 4 variabile, care sa acopere toate tipurile de variabile enumerate in cerinte si sa contina si alte variabile daca este necesar.
+
+- Pentru 2 din clase trebuie sa se construiasca Setters si Getters, iar in tot proiectul trebuie sa existe Setters si Getters pentru toate variabilele listate mai sus. 
 
 - In fiecare clasa trebuie sa existe:
 ---constructorul cu toti parametrii.
