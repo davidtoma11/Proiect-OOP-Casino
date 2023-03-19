@@ -15,22 +15,16 @@ In fiecare clasa trebuie sa existe:
 - forma supraincarcata a operatorului = .
 - supraincarcarea operatorului << si >>.
 
--Sa se supraincarce pentru fiecare clasa: 
-
----operatorul de indexare []
-
----operatorul ++ sau --
-
----minim 2 operatori matematici (+,-,* sau /)
-
----operatorul cast explicit sau implicit
-
----un operator conditional (<, ><=, >=) 
-
----operatorul pentru egalitate (==)
+Sa se supraincarce pentru fiecare clasa: 
+- operatorul de indexare []
+- operatorul ++ sau --
+- minim 2 operatori matematici (+,-,* sau /)
+- operatorul cast explicit sau implicit
+- un operator conditional (<, ><=, >=) 
+- operatorul pentru egalitate (==)
 
 
--Fiecare clasa trebuie sa contina functionalitati reale.
++ Fiecare clasa trebuie sa contina functionalitati reale.
 
--Proiectul trebuie sa fie insotit de un meniu interactiv care sa permita cel putin operatiile de baza (CreateReadUpdateDelete), dar si sa exemplifice functionalitatile aplicatiei.
++ Proiectul trebuie sa fie insotit de un meniu interactiv care sa permita cel putin operatiile de baza (CreateReadUpdateDelete), dar si sa exemplifice functionalitatile aplicatiei.
 
