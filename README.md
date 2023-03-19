@@ -16,7 +16,7 @@ Cerinte proiect :
 ---forma supraincarcata a operatorului = .
 ---supraincarcarea operatorului << si >>.
 
--Sa se supraincarce pentru fiecare clasa:
+-Sa se supraincarce pentru fiecare clasa: 
 
 ---operatorul de indexare [].
 ---operatorul ++ sau --.
