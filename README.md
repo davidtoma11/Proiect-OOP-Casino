@@ -6,14 +6,14 @@ Cerinte proiect :
 - Fiecare clasa trebuie sa contina minim 4 variabile, care sa acopere toate tipurile de variabile enumerate in cerinte si sa contina si alte variabile daca este necesar.
 - Pentru 2 din clase trebuie sa se construiasca Setters si Getters, iar in tot proiectul trebuie sa existe Setters si Getters pentru toate variabilele listate mai sus. 
 
-In fiecare clasa trebuie sa existe:
 
--constructorul cu toti parametrii
--cel putin 2 constructori cu parametrii
--constructorul fara parametrii
--constructorul de copiere, destructorul
--forma supraincarcata a operatorului = 
--supraincarcarea operatorului << si >>
+In fiecare clasa trebuie sa existe:
+-constructorul cu toti parametrii.
+-cel putin 2 constructori cu parametrii.
+-constructorul fara parametrii.
+-constructorul de copiere, destructorul.
+-forma supraincarcata a operatorului = .
+-supraincarcarea operatorului << si >>.
 
 -Sa se supraincarce pentru fiecare clasa: 
 
