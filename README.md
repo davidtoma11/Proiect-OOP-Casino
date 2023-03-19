@@ -24,7 +24,7 @@ Sa se supraincarce pentru fiecare clasa:
 - operatorul pentru egalitate (==)
 
 
-+ Fiecare clasa trebuie sa contina functionalitati reale.
+Fiecare clasa trebuie sa contina functionalitati reale.
 
-+ Proiectul trebuie sa fie insotit de un meniu interactiv care sa permita cel putin operatiile de baza (CreateReadUpdateDelete), dar si sa exemplifice functionalitatile aplicatiei.
+Proiectul trebuie sa fie insotit de un meniu interactiv care sa permita cel putin operatiile de baza (CreateReadUpdateDelete), dar si sa exemplifice functionalitatile aplicatiei.
 
