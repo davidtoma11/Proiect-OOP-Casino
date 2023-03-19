@@ -9,21 +9,26 @@ Cerinte proiect :
 
 - In fiecare clasa trebuie sa existe:
 
----constructorul cu toti parametrii.
----cel putin 2 constructori cu parametrii.
----constructorul fara parametrii.
----constructorul de copiere, destructorul.
----forma supraincarcata a operatorului = .
----supraincarcarea operatorului << si >>.
+---constructorul cu toti parametrii
+---cel putin 2 constructori cu parametrii
+---constructorul fara parametrii
+---constructorul de copiere, destructorul
+---forma supraincarcata a operatorului = 
+---supraincarcarea operatorului << si >>
 
 -Sa se supraincarce pentru fiecare clasa: 
 
----operatorul de indexare [].
----operatorul ++ sau --.
----minim 2 operatori matematici (+,-,* sau /).
----operatorul cast explicit sau implicit.
----un operator conditional (<, ><=, >=) .
----operatorul pentru egalitate (==). 
+---operatorul de indexare []
+
+---operatorul ++ sau --
+
+---minim 2 operatori matematici (+,-,* sau /)
+
+---operatorul cast explicit sau implicit
+
+---un operator conditional (<, ><=, >=) 
+
+---operatorul pentru egalitate (==)
 
 
 -Fiecare clasa trebuie sa contina functionalitati reale.
