@@ -1188,7 +1188,8 @@ int random_number(int x, int y)
 }
 
 void joaca(Client& client,Joc& joc) // functie care ruleaza jocurile
-{
+{   
+    joc.update();
     float miza;
     bool fonduri = true;
     double is = client.get_is();
