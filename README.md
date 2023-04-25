@@ -27,3 +27,5 @@ Sa se supraincarce pentru fiecare clasa:
 Fiecare clasa trebuie sa contina functionalitati reale.
 
 Proiectul trebuie sa fie insotit de un meniu interactiv care sa permita cel putin operatiile de baza (CreateReadUpdateDelete), dar si sa exemplifice functionalitatile aplicatiei.
+
+Pe langa cerintele standard, se regasesc si functionalitati specifice (jocuri de slots si ruleta in cazul acestei teme).
