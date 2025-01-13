@@ -102,7 +102,7 @@ public:
         in >> client.idClient;
 
         cout << "Introduceti numele: ";
-        in >> client.nume;
+        in >> *(client.nume);
 
         cout << "Introduceti balanta: ";
         in >> client.balanta;
